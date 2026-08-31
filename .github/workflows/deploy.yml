@@ -14,6 +14,7 @@ jobs:
   deploy:
     name: GitHub WAR to Worker Deploy
     runs-on: [self-hosted, ci-server]
+  
 
     steps:
 
